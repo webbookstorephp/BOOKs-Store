@@ -23,19 +23,13 @@
 							while ($tdm= mysqli_fetch_assoc($sql)) 
 							{
 						?>
-					<!--	<div class="col-sm-3">
+						<div class="col-sm-3">
 							<ul class="multi-column-dropdown">
-								<h6><?php echo $tdm['TenDM'];?></h6>
-							<?php 
-								$kqdm = mysqli_query($conn, "SELECT * FROM `loaisanpham` where idDM={$tdm['id']} and AnHien=1 order by ThuTu");
-								while($ttl= mysqli_fetch_assoc($kqdm))
-								{
-							?>	
-								<li><a href="product.php?idDM=<?php echo $tdm['id'];?>&idLoai=<?php echo $ttl['id'];?>"><?php echo $ttl['TenLoai'];?></a></li>	
-							<?php } ?>
+								<h6><?php echo $tdm['tenDM'];?></h6>
+							
 							</ul>
 						</div>
-					<?php } ?>	-->
+					<?php } ?>	
 						<div class="clearfix"></div>	
 							
 							
