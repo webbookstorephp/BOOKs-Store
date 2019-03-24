@@ -3,7 +3,7 @@
 	<!-- banner -->
 	<div class="banner">
 		<div class="container">
-			<h3>CỬA HÀNG SÁCH , <span>Special Offers</span></h3>
+			<h3>B O O K S T O R E , <span>Special Offers</span></h3>
 		</div>
 	</div>
 	<!-- //banner --> 
@@ -131,31 +131,29 @@
 	<!-- top-brands -->
 	<div class="top-brands">
 		<div class="container">
-			<h3>Top Thương Hiệu</h3>
+			<h3>Top Nhà Xuất Bản</h3>
 			<div class="sliderfig">
 				<div class="nbs-flexisel-container">
 					<div class="nbs-flexisel-inner">
 						<ul id="flexiselDemo1" class="nbs-flexisel-ul" style="left: -285px; display: block;">
+
 							<li class="nbs-flexisel-item" style="width: 285px;">
 								<img src="images/tb5.jpg" alt=" " class="img-responsive">
 							</li><li class="nbs-flexisel-item" style="width: 285px;">
-								<img src="images/tb1.jpg" alt=" " class="img-responsive">
+								<a href="https://www.nxbkimdong.com.vn/"><img src="images/tb11.png" alt=" " class="img-responsive"></a>
 							</li><li class="nbs-flexisel-item" style="width: 285px;">
-								<img src="images/tb2.jpg" alt=" " class="img-responsive">
+								<a href="https://www.nxbtre.com.vn/"><img src="images/tb12.png" alt=" " class="img-responsive"></a>
 							</li><li class="nbs-flexisel-item" style="width: 285px;">
-								<img src="images/tb3.jpg" alt=" " class="img-responsive">
+								<a href="http://nxbthongtintruyenthong.vn/"><img src="images/tb13.jpg" alt=" " class="img-responsive"></a>
 							</li><li class="nbs-flexisel-item" style="width: 285px;">
-								<img src="images/tb4.jpg" alt=" " class="img-responsive">
+								<a href="http://www.nxblaodong.com.vn/"><img src="images/tb144.jpg" alt=" " class="img-responsive"></a>
+							</li>
+
+							<li class="nbs-flexisel-item" style="width: 285px;">
+								<img src="images/tb15.jpg" alt=" " class="img-responsive">
 							</li><li class="nbs-flexisel-item" style="width: 285px;">
-								<img src="images/tb5.jpg" alt=" " class="img-responsive">
-							</li><li class="nbs-flexisel-item" style="width: 285px;">
-								<img src="images/tb1.jpg" alt=" " class="img-responsive">
-							</li><li class="nbs-flexisel-item" style="width: 285px;">
-								<img src="images/tb2.jpg" alt=" " class="img-responsive">
-							</li><li class="nbs-flexisel-item" style="width: 285px;">
-								<img src="images/tb3.jpg" alt=" " class="img-responsive">
-							</li><li class="nbs-flexisel-item" style="width: 285px;">
-								<img src="images/tb4.jpg" alt=" " class="img-responsive">
+								<img src="images/tb16.jpg" alt=" " class="img-responsive">
+							
 							</li>
 						</ul>
 						<div class="nbs-flexisel-nav-left" style="top: 23px;"></div>
