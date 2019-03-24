@@ -12,7 +12,7 @@
 		<div class="container">
 			<ul>
 				<li><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a> <i>/</i></li>
-				<li>Mail</li>
+				<li>Liên hệ</li>
 			</ul>
 		</div>
 	</div>
@@ -20,14 +20,14 @@
 	<!-- mail -->
 	<div class="mail">
 		<div class="container">
-			<h3>Thông Tin Liên Hệ</h3>
+			<h3 style="font-weight: bold;">Thông Tin Liên Hệ</h3>
 			<div class="agile_mail_grids">
 				<div class="col-md-5 contact-left">
-					<li>Địa chỉ:Số 59,Phường 5, quận Gò Vấp, TP.Hồ Chí Minh<span>Việt Nam</span></li>
-					<li>Số điện thoại 	:0948468569</li>
-					<li>Hotline 	:01628868174</li>
-					<li>Fax 		:1123456789</li>
-					<li>Email :<a href="hoangtam.0910@gmail.com">hoangtam.0910@gmail.com</a></li>
+					<li>Địa chỉ: 59, Phường 5, quận Gò Vấp, TP. HCM, Việt Nam</li>
+					<li>Số điện thoại: 0948468569</li>
+					<li>Hotline: 01628868174</li>
+					<li>Fax: 1123456789</li>
+					<li>Email: <a href="mailto:hoangtam.0910@gmail.com">hoangtam.0910@gmail.com</a></li>
 					
 				</div>
 				<div class="col-md-7 contact-left">
@@ -40,7 +40,8 @@
 						<input type="submit" value="Gửi" >
 					</form>
 				</div>
-				<p>	<h2>Bản đồ đến shop: </h2></p>
+				<br>
+				<p>	<h2 style="color: #3c43a4">Bản đồ đến shop: </h2></p>
 				<div class="clearfix"> </div>
 			</div>
 
