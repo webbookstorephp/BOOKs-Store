@@ -22,16 +22,16 @@
 		<div class="container">	
 			<div class="w3ls_about_grids">
 				<div class="col-md-6 w3ls_about_grid_left">
-					<p><h1>Giới thiệu nhà sách</h1></p>
+					<p><h1 style="font-weight: bold;">Giới thiệu nhà sách</h1></p>
 					<div class="col-xs-2 w3ls_about_grid_left1">
 						<span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
 					</div>
 					<div class="col-xs-10 w3ls_about_grid_left2">
 						<p><h2>Tận tâm với khách hàng!!!!</h2></p>
-						<p>Nhà Sách luôn nổ lực mang tới dịch vụ và trải nghiệm tốt nhất.</p>
-						<p>Nhân viên thân thiện, gửi xe và wifi miễn phí tại nhà sách.</p>
-						<p>Nhà sách với không gian trẻ trung, thoáng đãng phù hợp với các bạn trẻ</p>
-						<p>Không gian xanh thân thiện với môi trường</p>
+						<p style="color: #3c43a4">Nhà Sách luôn nổ lực mang tới dịch vụ và trải nghiệm tốt nhất.</p>
+						<p style="color: #3c43a4">Nhân viên thân thiện, gửi xe và wifi miễn phí tại nhà sách.</p>
+						<p style="color: #3c43a4">Nhà sách với không gian trẻ trung, thoáng đãng phù hợp với các bạn trẻ</p>
+						<p style="color: #3c43a4">Không gian xanh thân thiện với môi trường</p>
 					</div>
 					<div class="clearfix"> </div>
 					<div class="col-xs-2 w3ls_about_grid_left1">
@@ -39,13 +39,16 @@
 					</div>
 					<div class="col-xs-10 w3ls_about_grid_left2">
 						<p><h2>Dịch vụ chu đáo!!!</h2></p>
-						<p>Giao hàng miễn phí.</p>
-						<p>Thanh toán tại nhà.</p>
+						<p style="color: #3c43a4">Giao hàng miễn phí.</p>
+						<p style="color: #3c43a4">Thanh toán tại nhà.</p>
 					</div>
-					<p><h2>	Cảm ơn quý khách đã quan tâm đến nhà sách!!!</h2></p>
-					<div class="clearfix"> </div>
+					<p><h3>	Cảm ơn quý khách đã quan tâm đến nhà sách!!!</h3></p>
+					
 				</div>
-				<div class="col-md-6 w3ls_about_grid_right">
+				<div class="col-md-5 w3ls_about_grid_right">
+					<img src="images/nha_sach_dep.jpg" alt="hình ảnh giới thiệu trang thông tin cửa hàng" class="img-responsive" />
+				</div>
+				<div class="col-md-5 w3ls_about_grid_right">
 					<img src="images/nha_sach_dep.jpg" alt="hình ảnh giới thiệu trang thông tin cửa hàng" class="img-responsive" />
 				</div>
 				<div class="clearfix"> </div>
@@ -72,7 +75,7 @@
 				</div>
 				<div class="col-md-3 wthree_team_grid">
 					<img src="images/V%C4%83n_Th%C3%A0nh.jpg" alt=" " class="img-responsive" />
-					<h4>Nguyễn Văn Thành <span>Thiết Kế</span></h4>
+					<h4>Nguyễn Văn Thành <span>Front-end Developer</span></h4>
 					<div class="agileits_social_button">
 						<ul>
 							<li><a href="https://www.facebook.com/profile.php?id=100028434216628" class="facebook"> </a></li>
@@ -84,7 +87,7 @@
 				</div>
 				<div class="col-md-3 wthree_team_grid">
 					<img src="images/Thanh_Tuy%E1%BB%81n.jpg" alt=" " class="img-responsive" />
-					<h4>Nguyễn Thị Thanh Tuyền <span>Giám đốc</span></h4>
+					<h4>Nguyễn Thị Thanh Tuyền <span>Front-end Developer</span></h4>
 					<div class="agileits_social_button">
 						<ul>
 							<li><a href="https://www.facebook.com/thanhtuyen.nguyen.1023611" class="facebook"> </a></li>
@@ -96,7 +99,7 @@
 				</div>
 				<div class="col-md-3 wthree_team_grid">
 					<img src="images/Ly_Na.jpg" alt=" " class="img-responsive" />
-					<h4>Huỳnh Thị Ly Na <span> Kiểm tra chất lượng</span></h4>
+					<h4>Huỳnh Thị Ly Na <span>Database Developer</span></h4>
 					<div class="agileits_social_button">
 						<ul>
 							<li><a href="https://www.facebook.com/lyna.huynh.79677" class="facebook"> </a></li>
@@ -115,7 +118,7 @@
 	<!-- team-bottom -->
 	<div class="team-bottom">
 		<div class="container">
-			<h3>Bạn đã sẵn sàng mua sắm chưa ??? <span>30% Giảm giá </span>cho tất cả các đầu sách!!!</h3>
+			<h3>Bạn đã sẵn sàng chưa ??? <span>30% Giảm giá </span>cho tất cả các đỘC GIẢ ĐẦU TIÊN!!!</h3>
 			<p>Hãy nhanh chân trang bị cho mình những kiến thức hữu ích về cuộc sống với mức giá tốt nhất.</p>
 			<a href="product.php">shop now </a>
 		</div>
