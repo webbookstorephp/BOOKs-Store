@@ -23,11 +23,11 @@
 			<h3>Thông Tin Liên Hệ</h3>
 			<div class="agile_mail_grids">
 				<div class="col-md-5 contact-left">
-					<li>Địa chỉ:Phường 5, quận Gò Vấp, TP.Hồ Chí Minh<span>Việt Nam</span></li>
-					<li>Số điện thoại 	:02723836516</li>
+					<li>Địa chỉ:Số 59,Phường 5, quận Gò Vấp, TP.Hồ Chí Minh<span>Việt Nam</span></li>
+					<li>Số điện thoại 	:0948468569</li>
 					<li>Hotline 	:01628868174</li>
 					<li>Fax 		:1123456789</li>
-					<li>Email :<a href="vohoangnguyen07@gmail.com">vohoangnguyen07@gmail.com</a></li>
+					<li>Email :<a href="hoangtam.0910@gmail.com">hoangtam.0910@gmail.com</a></li>
 					
 				</div>
 				<div class="col-md-7 contact-left">
