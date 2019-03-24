@@ -71,7 +71,7 @@
 					<p><?php echo $result['MoTa']; ?></p>
 				</div>
 				<div class="color-quality">
-					<div class="color-quality-left">
+					<!--<div class="color-quality-left">
 						<h5>Color : </h5>
 						<ul>
 							<li><a href="#"><span></span></a></li>
@@ -79,8 +79,8 @@
 							<li><a href="#" class="purple"><span></span></a></li>
 							<li><a href="#" class="gray"><span></span></a></li>
 						</ul>
-					</div>
-					<div class="color-quality-right">
+					</div>-->
+					<div class="color-quality-left">
 						<h5>Số lượng :</h5>
 						 <div class="quantity"> 
 							<div class="quantity-select">                           
@@ -106,7 +106,7 @@
 					</div>
 					<div class="clearfix"> </div>
 				</div>
-				<div class="occasional">
+				<!--<div class="occasional">
 					<h5>RAM :</h5>
 					<div class="colr ert">
 						<div class="check">
@@ -124,9 +124,9 @@
 						</div>
 					</div>
 					<div class="clearfix"> </div>
-				</div>
+				</div>-->
 				<div class="simpleCart_shelfItem">
-					<p><span>$460</span> <i class="item_price"><?php echo $result['Gia']; ?></i></p>
+					<p><i class="item_price"><?php echo $result['Gia']; ?></i></p>
 					<a href="addcart.php?id=<?php echo $result['id']; ?>" class="btn btn-primary add-cart-button">Thêm vào giỏ</a>
 				</div> 
 			</div>

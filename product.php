@@ -22,7 +22,7 @@
 								<div class="panel-heading" role="tab">
 									<h4 class="panel-title asd">
 										<a class="pa_italic collapsed" role="button" data-toggle="collapse" href="#collapse<?php echo $i;?>" aria-expanded="false">
-										<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i><?php echo $tdm['TenDM']; ?>
+										<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i><?php echo $tdm['tenDM']; ?>
 										</a>
 									</h4>
 								</div>
