@@ -40,11 +40,12 @@
 				<div class="col-md-3 w3_footer_grid">
 					<h3>Danh mục</h3>
 					<ul class="info"> 
-						<li><a href="product.php">CPU</a></li>
-						<li><a href="product.php">RAM</a></li>
-						<li><a href="product.php">VGA</a></li>
-						<li><a href="product.php">PSU</a></li>
-						<li><a href="product.php">SSD</a></li>
+						<li><a href="product.php">Văn Học Nghệ Thuật</a></li>
+						<li><a href="product.php">Tiểu Thuyết</a></li>
+						<li><a href="product.php">Sách thiếu nhi</a></li>
+						<li><a href="product.php">Chính Trị-Pháp Luật</a></li>
+						<li><a href="product.php">Khoa học-Công Nghệ</a></li>
+						<li><a href="product.php">Văn hóa-Xã hội-Lịch Sử</a></li>
 					</ul>
 				</div>
 				<div class="col-md-3 w3_footer_grid">
