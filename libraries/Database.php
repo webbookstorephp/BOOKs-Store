@@ -3,7 +3,7 @@
         private $host = 'localhost';
         private $uname = 'root';
         private $psw = '';
-        private $dbName = 'test123';
+        private $dbName = 'websach_online';
         private $conn;
 
         public function __construct()

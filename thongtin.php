@@ -22,31 +22,31 @@
 		<div class="container">	
 			<div class="w3ls_about_grids">
 				<div class="col-md-6 w3ls_about_grid_left">
-					<p><h1>Giới thiệu tổng quan</h1></p>
+					<p><h1>Giới thiệu nhà sách</h1></p>
 					<div class="col-xs-2 w3ls_about_grid_left1">
 						<span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
 					</div>
 					<div class="col-xs-10 w3ls_about_grid_left2">
 						<p><h2>Tận tâm với khách hàng!!!!</h2></p>
-						<p>Shop luôn nổ lực mang tới dịch vụ và trải nghiệm tốt nhất.</p>
-						<p>Nhân viên thân thiện, gửi xe và wifi miễn phí tại Shop.</p>
-						<p>Hướng dẫn cài đặt, lắp ráp & sử dụng,... miễn phí.</p>
-						<p>Tiếp nhận bảo hành chính hãng.</p>
+						<p>Nhà Sách luôn nổ lực mang tới dịch vụ và trải nghiệm tốt nhất.</p>
+						<p>Nhân viên thân thiện, gửi xe và wifi miễn phí tại nhà sách.</p>
+						<p>Nhà sách với không gian trẻ trung, thoáng đãng phù hợp với các bạn trẻ</p>
+						<p>Không gian xanh thân thiện với môi trường</p>
 					</div>
 					<div class="clearfix"> </div>
 					<div class="col-xs-2 w3ls_about_grid_left1">
 						<span class="glyphicon glyphicon-flash" aria-hidden="true"></span>
 					</div>
 					<div class="col-xs-10 w3ls_about_grid_left2">
-						<p><h2>Tận tình với sản phẩm!!!</h2></p>
+						<p><h2>Dịch vụ chu đáo!!!</h2></p>
 						<p>Giao hàng miễn phí.</p>
 						<p>Thanh toán tại nhà.</p>
 					</div>
-					<p><h2>	Cảm ơn quý khách đã quan tâm đến sản phẩm của chúng tôi!!!</h2></p>
+					<p><h2>	Cảm ơn quý khách đã quan tâm đến nhà sách!!!</h2></p>
 					<div class="clearfix"> </div>
 				</div>
 				<div class="col-md-6 w3ls_about_grid_right">
-					<img src="images/thongtin.jpg" alt="hình ảnh giới thiệu trang thông tin cửa hàng" class="img-responsive" />
+					<img src="images/nha_sach_dep.jpg" alt="hình ảnh giới thiệu trang thông tin cửa hàng" class="img-responsive" />
 				</div>
 				<div class="clearfix"> </div>
 			</div>
@@ -59,11 +59,11 @@
 			<h3>Thành viên quản trị</h3>
 			<div class="wthree_team_grids">
 				<div class="col-md-3 wthree_team_grid">
-					<img src="images/thayhung.jpg" alt=" " class="img-responsive" />
-					<h4>Nguyễn Mạnh Hùng <span>Quản lý</span></h4>
+					<img src="images/T%C3%A2m_L%C3%AA.jpg" alt=" " class="img-responsive" />
+					<h4>Lê Hoàng Tâm <span>Quản lý</span></h4>
 					<div class="agileits_social_button">
 						<ul>
-							<li><a href="https://www.facebook.com/mrhung189" class="facebook"> </a></li>
+							<li><a href="https://www.facebook.com/close.all.587" class="facebook"> </a></li>
 							<li><a href="#" class="twitter"> </a></li>
 							<li><a href="#" class="google"> </a></li>
 							<li><a href="#" class="pinterest"> </a></li>
@@ -71,11 +71,11 @@
 					</div>
 				</div>
 				<div class="col-md-3 wthree_team_grid">
-					<img src="images/toi.jpg" alt=" " class="img-responsive" />
-					<h4>Võ Hoàng Nguyên <span>Thiết Kế</span></h4>
+					<img src="images/V%C4%83n_Th%C3%A0nh.jpg" alt=" " class="img-responsive" />
+					<h4>Nguyễn Văn Thành <span>Thiết Kế</span></h4>
 					<div class="agileits_social_button">
 						<ul>
-							<li><a href="https://www.facebook.com/khang.vohoang.31" class="facebook"> </a></li>
+							<li><a href="https://www.facebook.com/profile.php?id=100028434216628" class="facebook"> </a></li>
 							<li><a href="#" class="twitter"> </a></li>
 							<li><a href="#" class="google"> </a></li>
 							<li><a href="#" class="pinterest"> </a></li>
@@ -83,11 +83,11 @@
 					</div>
 				</div>
 				<div class="col-md-3 wthree_team_grid">
-					<img src="images/thayphet.jpg" alt=" " class="img-responsive" />
-					<h4>Dương Thành Phết <span>Giám đốc</span></h4>
+					<img src="images/Thanh_Tuy%E1%BB%81n.jpg" alt=" " class="img-responsive" />
+					<h4>Nguyễn Thị Thanh Tuyền <span>Giám đốc</span></h4>
 					<div class="agileits_social_button">
 						<ul>
-							<li><a href="https://www.facebook.com/profile.php?id=100003609257775" class="facebook"> </a></li>
+							<li><a href="https://www.facebook.com/thanhtuyen.nguyen.1023611" class="facebook"> </a></li>
 							<li><a href="#" class="twitter"> </a></li>
 							<li><a href="#" class="google"> </a></li>
 							<li><a href="#" class="pinterest"> </a></li>
@@ -95,11 +95,11 @@
 					</div>
 				</div>
 				<div class="col-md-3 wthree_team_grid">
-					<img src="images/thaybay.jpg" alt=" " class="img-responsive" />
-					<h4>Võ Đình Bảy <span> Kiểm tra chất lượng</span></h4>
+					<img src="images/Ly_Na.jpg" alt=" " class="img-responsive" />
+					<h4>Huỳnh Thị Ly Na <span> Kiểm tra chất lượng</span></h4>
 					<div class="agileits_social_button">
 						<ul>
-							<li><a href="https://www.facebook.com/vo.bay.3" class="facebook"> </a></li>
+							<li><a href="https://www.facebook.com/lyna.huynh.79677" class="facebook"> </a></li>
 							<li><a href="#" class="twitter"> </a></li>
 							<li><a href="#" class="google"> </a></li>
 							<li><a href="#" class="pinterest"> </a></li>
@@ -115,8 +115,8 @@
 	<!-- team-bottom -->
 	<div class="team-bottom">
 		<div class="container">
-			<h3>Bạn đã sẵn sàng mua sắm chưa ??? <span>30% Giảm giá </span>cho tất cả ổ cứng!!!</h3>
-			<p>Hãy nhanh tay mua những thiết bị sành điệu nhất để máy tính của bạn trở nên mạnh mẽ đi nào.</p>
+			<h3>Bạn đã sẵn sàng mua sắm chưa ??? <span>30% Giảm giá </span>cho tất cả các đầu sách!!!</h3>
+			<p>Hãy nhanh chân trang bị cho mình những kiến thức hữu ích về cuộc sống với mức giá tốt nhất.</p>
 			<a href="product.php">shop now </a>
 		</div>
 	</div>

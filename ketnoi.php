@@ -1,5 +1,5 @@
 <?php
-	$conn = mysqli_connect("localhost", "root","","test123");
+	$conn = mysqli_connect("localhost", "root","","websach_online");
 	// kiem tra ket noi loi
 	if(!$conn){
 		die(mysqli_connect_error());

@@ -48,12 +48,7 @@
 					</ul>
 				</div>
 				<div class="col-md-3 w3_footer_grid">
-					<h3>Dịch vụ bảo hành</h3>
-					<ul class="info"> 
-						<li><a href="index.php">Quy định bảo hành</a></li>
-						<li><a href="thongtin.php">Chính sách cửa hàng</a></li>
-						<li><a href="lienhe.php">Thắc mắc, khiếu nại sản phẩm</a></li>
-					</ul>
+					
 					<h4>Theo dõi</h4>
 					<div class="agileits_social_button">
 						<ul>
@@ -74,7 +69,7 @@
 				</div>
 			</div>
 			<div class="container">
-				<p>&copy; 2018 Shop Linh Kiện. Được thiết kế bởi <a href="https://www.facebook.com/khang.vohoang.31">Nguyên Võ</a></p>
+				<p>&copy; 2019 Web nhà sách online. Được thiết kế bởi <a href="https://www.facebook.com/close.all.587">Lê Hoàng Tâm</a></p>
 			</div>
 		</div>
 	</div>
