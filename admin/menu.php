@@ -26,7 +26,6 @@
 									<ul class="gn-submenu">
 										<li class="mini_list_agile"><a href="index.php?k=danhmuc"><i class="fa fa-caret-right" aria-hidden="true"></i> Danh mục sản phẩm</a></li>
 										<li class="mini_list_agile"><a href="index.php?k=loaisanpham"><i class="fa fa-caret-right" aria-hidden="true"></i> Loại sản phẩm</a></li>
-										<li class="mini_list_agile"><a href="index.php?k=nhacungcap"><i class="fa fa-caret-right" aria-hidden="true"></i>Nhà cung cấp</a></li>
 										<li class="mini_list_w3"><a href="index.php?k=sanpham"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sản phẩm</a></li>
 									</ul>
 								</li>

@@ -2,7 +2,7 @@
 <!-- banner -->
 <!--copy rights start here-->
 <div class="copyrights">
-	 <p>© 2018 Shop linh kiện | Design by  <a href="https://www.facebook.com/khang.vohoang.31" target="_blank">Nguyên Võ</a> </p>
+	 <p>© 2018 Shop bán sách | Design by  <a href="https://www.facebook.com/khang.vohoang.31" target="_blank">Tâm, Tuyền, Na</a> </p>
 </div>	
 <!--copy rights end here-->
 <!-- js -->

@@ -4,8 +4,8 @@
 	if(isset($_POST['themdanhmuc']))
 	{
 		$tendm=$_POST['TenDM'];
-		$thutu=$_POST['ThuTu'];
-		$anhien=$_POST['AnHien'];
+		$thutu=$_POST['thutu'];
+		$anhien=$_POST['anhien'];
 		echo $tendm . ' ' .$thutu . ' ' .$anhien;
 
 		$query= mysqli_query($conn, "insert into `danhmucsanpham`
@@ -33,13 +33,13 @@
 		{
 			$iddm=$_POST['idan'];
 			$tendm=$_POST['TenDM'];
-			$thutu=$_POST['ThuTu'];
-			$anhien=$_POST['AnHien'];
+			$thutu=$_POST['thutien'];
+			$anhien=$_POST['anhien'];
 
 			$query = mysqli_query($conn, "update `danhmucsanpham` set 
 						`TenDM` = '".$tendm."', 
-						`ThuTu` = '".$thutu."',
-						`AnHien` = '".$anhien."' 
+						`thutu` = '".$thutu."',
+						`anhien` = '".$anhien."' 
 						where `id` = $iddm");
 			if($query)
 				header('location:index.php?k=danhmuc');
@@ -324,7 +324,7 @@
 	if(isset($_POST['themadmin']))
 	{
 		$username=$_POST['UserName'];
-		$password=$_POST['PassWord'];
+		$password=md5($_POST['PassWord']);
 		$email=$_POST['Email'];
 		$hoten=$_POST['HoTen'];
 		$dienthoai=$_POST['idQuyen'];
@@ -362,7 +362,7 @@
 			$idquyen=$_POST['idQuyen'];
 			$trangthai=$_POST['TrangThai'];
 			$query = mysqli_query($conn, "update `admin` set 
-						`PassWord` = '".$password."',
+						`PassWord` = md5('".$password."'),
 						`HoTen` = '".$hoten."',
 						`idQuyen` = '".$idquyen."',  
 						`TrangThai` = '".$trangthai."'

@@ -35,10 +35,6 @@ if(!isset($_SESSION['id'])) {
 						case 'adminadd': include('admin/themadmin.php'); break;
 						case 'adminedit': include('admin/suaadmin.php'); break;
 
-						case 'nhacungcap': include('nhacungcap/nhacungcap.php'); break;
-						case 'nhacungcapadd': include('nhacungcap/themnhacungcap.php'); break;
-						case 'nhacungcapedit': include('nhacungcap/suanhacungcap.php'); break;
-
 						case 'khachhang': include('khachhang/khachhang.php'); break;
 						case 'khachhangadd': include('khachhang/themkhachhang.php'); break;
 						case 'khachhangedit': include('khachhang/suakhachhang.php'); break;

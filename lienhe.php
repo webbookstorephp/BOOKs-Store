@@ -1,4 +1,15 @@
 <?php include("header.php"); ?>
+
+<?php 
+	// if(isset($_POST['guilienhe'])) {
+	// 	$data = array(
+	// 		'name' => $_POST['name'],
+	// 		'email' =>$_POST['email'],
+	// 		'phone' => $_POST['phone'],
+			
+	// 	);
+	// }
+?>
 	<!-- //navigation -->
 	<!-- banner -->
 	<div class="banner banner10">
@@ -32,12 +43,12 @@
 				</div>
 				<div class="col-md-7 contact-left">
 					<h4>Nhập thông tin liên hệ</h4>
-					<form action="#" method="post">
-						<input type="text" name="Name" placeholder="Họ tên" required="">
-						<input type="email" name="Email" placeholder="Địa chỉ email" required="">
-						<input type="text" name="Telephone" placeholder="Số điện thoại" required="">
+					<form action="" method="post">
+						<input type="text" name="name" placeholder="Họ tên" required="">
+						<input type="email" name="email" placeholder="Địa chỉ email" required="">
+						<input type="text" name="phone" placeholder="Số điện thoại" required="">
 						<textarea name="message" placeholder="Ghi chú..." required=""></textarea>
-						<input type="submit" value="Gửi" >
+						<input type="submit" name="guilienhe" value="Gửi" >
 					</form>
 				</div>
 				<br>

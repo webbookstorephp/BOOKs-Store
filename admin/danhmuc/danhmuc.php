@@ -40,9 +40,9 @@
 						  <tr>
 							<td><?php echo $tdm['id'];?></td>
 							<td><?php echo $tdm['TenDM'];?></td>
-							<td><?php echo $tdm['ThuTu'];?></td>
+							<td><?php echo $tdm['thutu'];?></td>
 							<td>
-								<?php echo($tdm['AnHien'] == 1)?'Hiện':'Ẩn';?>
+								<?php echo($tdm['anhien'] == 1)?'Hiện':'Ẩn';?>
 							</td>
 							<td>
 								<a href="index.php?k=danhmucedit&idDM=<?php echo $tdm['id']; ?>"><i class="fa fa-edit"></i></a>

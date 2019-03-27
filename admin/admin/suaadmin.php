@@ -22,7 +22,7 @@
 		<div class="form-group">
 			<label for="PassWord" class="col-sm-2 control-label">Pass Word</label>
 			<div class="col-sm-8">
-				<input type="text" class="form-control1" id="PassWord" name="PassWord" placeholder="Nhập pass Word " value="<?php echo $result['PassWord'];?>">
+				<input type="password" class="form-control1" id="PassWord" name="PassWord" placeholder="Nhập pass Word " value="">
 			</div>
 			<div class="col-sm-2">
 				<p class="help-block"></p>

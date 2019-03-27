@@ -23,7 +23,7 @@
 		<div class="form-group">
 			<label for="ThuTu" class="col-sm-2 control-label">Thứ tự hiển thị</label>
 			<div class="col-sm-8">
-				<input type="number" class="form-control1" id="ThuTu" name="ThuTu" placeholder="Nhập Thứ tự hiển thị" value="<?php echo $result['ThuTu'];?>" >
+				<input type="number" class="form-control1" id="ThuTu" name="ThuTu" placeholder="Nhập Thứ tự hiển thị" value="<?php echo $result['thutu'];?>" >
 			</div>
 		</div>
 
@@ -31,7 +31,7 @@
 			<label for="AnHien" class="col-sm-2 control-label">Ẩn Hiện</label>
 			<div class="col-sm-8">
 				<?php
-                    if($result["AnHien"] == true) {
+                    if($result["anhien"] == true) {
                         $Hien=1;
                     } else {
                         $An=0;
@@ -39,12 +39,12 @@
                 ?>
 				<div class="radio-inline">
 					<label>
-						<input type="radio" name="AnHien" value="0" <?php if(isset($An)) { ?>checked<?php  } ?>> Ẩn 
+						<input type="radio" name="anhien" value="0" <?php if(isset($An)) { ?>checked<?php  } ?>> Ẩn 
 					</label>
 				</div>
 				<div class="radio-inline">
 					<label>
-						<input type="radio" name="AnHien" value="1" <?php if(isset($Hien)) { ?>checked<?php  }?>> Hiện
+						<input type="radio" name="anhien" value="1" <?php if(isset($Hien)) { ?>checked<?php  }?>> Hiện
 					</label>
 				</div>
 			</div>
